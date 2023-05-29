@@ -1,0 +1,5 @@
+
+## 1ST LIEUTENANT Alex Kim (He/Him)
+The executive officer aboard the Rio Grande, 1st Lieutenant Alex Kim hasn’t served as long or had as storied a career as Captain Farris, though he wouldn’t be XO if he lacked the necessary qualifications. Promoted to the post relatively recently, Kim is eager to prove that he’s up to the task – perhaps a bit too eager if you were to ask some of the ship’s personnel who’ve found themselves on the receiving end of yet another pep talk or by-the-book lecture about regulations. They’re hoping that some of the captain’s self-assurance will rub off on him and he’ll start to relax more into the role, ideally sooner rather than later.
+
+While the XO finds such relaxation something of a challenge (along with socialization in general), his eye for detail and keen grasp of tactics express themselves through a love for games of strategy, and he remains the ship’s undisputed champion of the Sparri card game Kapkat.

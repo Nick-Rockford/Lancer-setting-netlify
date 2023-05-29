@@ -28,18 +28,18 @@
           <span class="subtitle">{{ header.year }}</span>
         </div>
       </div>
-      <div class="location-row" id="system-gate-ring">
-        <div id="system">
-          <h4>System</h4>
-          <span class="subtitle">{{ header.system }}</span>
+      <div class="location-row" id="vessel-captian-nhp">
+        <div id="vessel">
+          <h4>Vessel</h4>
+          <span class="subtitle">{{ header.vessel }}</span>
         </div>
-        <div id="gate">
-          <h4>Gate</h4>
-          <span class="subtitle">{{ header.gate }}</span>
+        <div id="captian">
+          <h4>Captian</h4>
+          <span class="subtitle">{{ header.captian }}</span>
         </div>
-        <div id="ring">
-          <h4>Ring</h4>
-          <span class="subtitle">{{ header.ring }}</span>
+        <div id="nhp">
+          <h4>NHP</h4>
+          <span class="subtitle">{{ header.nhp }}</span>
         </div>
       </div>
     </div>

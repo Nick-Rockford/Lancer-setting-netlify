@@ -4,22 +4,23 @@
 			<img :src="pilotPortrait" class="pilot-portrait" />
 			<div class="pilot-loadout">
 				<div class="name">
-					<h1>Callsign</h1>
-					<h2>{{ pilot.callsign }}</h2>
-				</div>
-				<div class="name">
 					<h1>Name or Legal Alias</h1>
+					<h2>{{ pilot.callsign }}</h2>
+				<div class="name">
+					<h1>Position</h1>
 					<h2>{{ pilot.alias }}</h2>
+				</div>
 				</div>
 				<div class="code">{{ pilot.code }}</div>
 			</div>
-			<div class="mech-loadout">
+			
+			<div v-if="pilot.mech !== 'no-mech'" class="mech-loadout">
 				<div class="name">
 					<h1>{{ pilot.corpro }} // {{ pilot.frame }}</h1>
 					<h2>{{ pilot.mech }}</h2>
 				</div>
 			</div>
-			<img :src="mechPortrait" class="mech-portrait" />
+			<img v-if="pilot.mech !== 'no-mech'" :src="mechPortrait" class="mech-portrait" />
 		</div>
 		<div class="middle">
 			<div class="text">&nbsp;</div>

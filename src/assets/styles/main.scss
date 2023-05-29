@@ -765,10 +765,21 @@ div.markdown {
   height: 350px;
   overflow-y: auto;
   transition: height 0.5s ease-in-out;
+  
+  p em, li em{
+    color: #7DF9FF;
+    font-style: normal;
+    font-size: 0.8em
+  }
 
   p strong {
     color: $primary;
   }
+
+  li strong{
+    color: $primary;
+  }
+
 
   h1 {
     margin: 0px;
