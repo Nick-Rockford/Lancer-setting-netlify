@@ -94,10 +94,15 @@ export default {
       "events": "",
       "missions": [
       {
+          "slug": "002",
+          "name": "Impending Gravity",
+          "status": "start"
+      },
+      {
           "slug": "001",
           "name": "Vigilant Gaze",
-          "status": "start"
-        },
+          "status": "success"
+      },
       ],
       "pilots": [
         {
